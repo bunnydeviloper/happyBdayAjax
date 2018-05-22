@@ -1,3 +1,3 @@
 # happyBdayAjax
 
-[link](https://bunnydeviloper.github.io/happyBdayAjax/public/)
+[check it out](https://bunnydeviloper.github.io/happyBdayAjax/public/)
